@@ -17,5 +17,3 @@ Hello, My name is ArminGhassemi.🙃<br>Python language is my life😊<br>And Im
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArminGhassemi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
