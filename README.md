@@ -17,8 +17,8 @@ And Im strive for my success
 ![](https://github-readme-stats.vercel.app/api?username=ArminGhassemi&theme=none&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArminGhassemi&theme=none&hide_border=false)
 ![Alt Text](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminGhassemi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=ArminGhassemi&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminGhassemi&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=ArminGhassemi&theme=light&no-frame=false&no-bg=true&margin-w=4)
 
 
 ![Alt Text](https://cultofthepartyparrot.com/flags/hd/iranparrot.gif)
