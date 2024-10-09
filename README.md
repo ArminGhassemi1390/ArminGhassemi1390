@@ -1,7 +1,12 @@
 ![Alt Text](https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966)
 
 # About Me:
-Hello, My name is **ArminGhassemi**.🙃<br>**Python** language is my life😊<br>And Im strive for my success😉
+Hello, My name is **ArminGhassemi**
+![Alt Text](https://camo.githubusercontent.com/d50eff3850de45840a5ca6bb2fb636fce56e47d22b98caf05b35e674d6b1eaca/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966)
+<br>**Python** language is my life
+![Alt Text](https://camo.githubusercontent.com/d50eff3850de45840a5ca6bb2fb636fce56e47d22b98caf05b35e674d6b1eaca/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966)
+<br>And Im strive for my success
+![Alt Text](https://camo.githubusercontent.com/f8672e0c6ebb1a0a67c4fecd418a116f01010bbdfaea4ebca6d193d69325e2fe/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f666978706172726f742e676966)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ArminGhassemi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ArminGhassemi) 
@@ -20,4 +25,4 @@ Hello, My name is **ArminGhassemi**.🙃<br>**Python** language is my life😊<b
 [![](https://visitcount.itsvg.in/api?id=ArminGhassemi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Thanks for watch my profile
-![Alt Text](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
+![Alt Text](https://cultofthepartyparrot.com/flags/hd/iranparrot.gif)
