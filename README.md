@@ -1,27 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
-
-        .about-me {
-            font-family: 'Roboto', sans-serif;
-            font-weight: 900;
-            color: black;
-            font-size: 24px;
-        }
-    </style>
-</head>
-<body>
-    <div class="about-me">About Me</div>
-</body>
-</html>
-![Alt Text](https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966)
-
 # About Me:
 Hello, My name is **ArminGhassemi**
 ![Alt Text](https://camo.githubusercontent.com/d50eff3850de45840a5ca6bb2fb636fce56e47d22b98caf05b35e674d6b1eaca/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966)
